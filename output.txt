@@ -1,0 +1,3 @@
+For following input, the power is = 8
+For following input, the power is = 1
+Please enter a positive number.For following input, the power is = 25
